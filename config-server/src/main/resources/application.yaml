@@ -5,3 +5,8 @@ spring:
     config:
       server:
         git:
+          default-label: main
+          uri: https://github.com/Georgi888111/Microservicios/tree/main
+          search-paths: config-data
+  application:
+    name: config-server
