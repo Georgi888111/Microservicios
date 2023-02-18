@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38e169e9-d5af-422e-bcc0-e3c23c3ec2d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../bike-service/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../car-service/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bike-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bike-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bike-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-service/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
