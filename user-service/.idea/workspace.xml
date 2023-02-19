@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38e169e9-d5af-422e-bcc0-e3c23c3ec2d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../config-data/bike-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-data/bike-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-data/car-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-data/car-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-data/user-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-data/user-service.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="38e169e9-d5af-422e-bcc0-e3c23c3ec2d2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
