@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @FeignClient(name = "bike-service" ,url = "/car")
-@RequestMapping("/bike")
 public interface BikeFeignClient {
 
     @PostMapping()
