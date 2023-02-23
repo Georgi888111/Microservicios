@@ -2,15 +2,13 @@ package com.practice.userservice.feignclient;
 
 import com.practice.userservice.model.Car;
 import org.springframework.cloud.openfeign.FeignClient;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 
-@FeignClient(name = "car-service")
+@FeignClient(name = "car-service", url = "/car")
+
 public interface CarFeignClient {
 
     @PostMapping()
